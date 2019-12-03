@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: EBS TENANT
+title: EBS TENANT 2
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: NEW VERSION CMS
