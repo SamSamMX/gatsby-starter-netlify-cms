@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: EBS TENANT 2
+title: EBS TENANT 3
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: NEW VERSION CMS
+subheading: NEW VERSION CMSjgfjgch
 mainpitch:
   title: Why Kaldi
   description: >
@@ -20,8 +20,8 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
+        We sjhvfjhell green and roasted coffee beans that are sourced directly
+        from independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
